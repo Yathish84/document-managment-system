@@ -27,18 +27,18 @@ DocuQuery is a comprehensive document management system with AI-powered Q&A capa
 
 1. Clone the repository:
 \`\`\`bash
-git clone https://github.com/yourusername/docuquery.git
-cd docuquery
+git clone https://github.com/Yathish84/document-managment-system.git
+cd document-managment-system
 \`\`\`
 
 2. Install dependencies:
 \`\`\`bash
-npm install
+pnpm install
 \`\`\`
 
 3. Run the development server:
 \`\`\`bash
-npm run dev
+pnpm run dev
 \`\`\`
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser.
