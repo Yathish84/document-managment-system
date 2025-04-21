@@ -30,13 +30,13 @@ A scalable, high-performance document management system with RAG Q&A capabilitie
 
 1. Clone the repository
    \`\`\`bash
-   git clone https://github.com/yourusername/docuquery.git
+   git clone https://github.com/Yathish84/document-managment-system.git
    cd docuquery
    \`\`\`
 
 2. Install dependencies
    \`\`\`bash
-   npm install
+   pnpm install
    \`\`\`
 
 3. Set up environment variables
@@ -47,7 +47,7 @@ A scalable, high-performance document management system with RAG Q&A capabilitie
 
 4. Run the development server
    \`\`\`bash
-   npm run dev
+   pnpm run dev
    \`\`\`
 
 5. Open [http://localhost:3000](http://localhost:3000) in your browser
